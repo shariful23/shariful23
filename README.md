@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Shariful Sujon
-- 👀 I’m interested in Web Design and Web Application Development
-- 🌱 I’m currently Working PHP and Laravel as well as React and WordPress.
+### Hi, I am Shariful Sujon
+
+##  I am Desingner, Developer and Freelancer
+
+
+- 👀 I’m interested in Web Technologies
+- 🌱 I’m currently Working with Laravel and React 
 - 💞️ I’m looking to collaborate on Developer tools
 - 📫 How to reach me 
 - Facebook: https://facebook.com/sharifulsujon23
