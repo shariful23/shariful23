@@ -9,7 +9,5 @@
 - 📫 How to reach me 
 - Facebook: https://facebook.com/sharifulsujon23
 - Skype: Shariful Sujon
-- Email: sharifulsujon.nstu@gmail.com <br>
--        shariful.islam@stud.fra-uas.de
--        
+- Email: sharifulsujon.nstu@gmail.com <br>     shariful.islam@stud.fra-uas.de <br>
 <code> Happy Surfing </code>
