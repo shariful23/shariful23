@@ -1,13 +1,16 @@
-### Hi, This is Md Shariful Islam
+### Hi There, This is Md Shariful Islam
 
-##  Desingner, Developer and SEO Expert
+##  Designer, Developer and SEO Expert
 
 
-- 👀 I’m interested in Modern Web Technologies with Javascript mostly React.Js
-- 🌱 Currently Working and experienced in efficient and large- scale web-based systems development
-- 💞️ I’m looking to collaborate on Developer tools
-- 📫 How to reach me 
-- Facebook: https://facebook.com/sharifulsujon23
-- Skype: Shariful Sujon
-- Email: sharifulsujon.nstu@gmail.com <br>     shariful.islam@stud.fra-uas.de <br>
-<code> Happy Surfing </code>
+- 👀 I’m interested in Modern Web Technologies with Javascript mostly with React.Js and NextJs.
+- 🌱 Currently Working in efficient and large- scale web-based systems development
+- 💞️ looking to collaborate on Developer tools
+### Ping me 
+<b>Facebook</b>: https://facebook.com/sharifulsujon23  <br>
+<b>Email</b> sharifulsujon.nstu@gmail.com <br>     shariful.islam@stud.fra-uas.de <br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shariful23&layout=donut)](https://github.com/shariful23/github-readme-stats)
+
+<code> HTML </code>  <code> CSS </code> <code> JavaScript </code> <code> ReactJs </code> <code> NextJs </code> <code> SEO </code>  <code> WordPress </code>
