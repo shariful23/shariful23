@@ -8,6 +8,7 @@
 - 💞️ looking to collaborate on Developer tools
 ### Ping me 
 <b>Facebook</b>: https://facebook.com/sharifulsujon23  <br>
+<b>LinkedIn</b>: https://www.linkedin.com/in/sharifulsujon/ <br>
 <b>Email</b> sharifulsujon.nstu@gmail.com <br>     shariful.islam@stud.fra-uas.de <br>
 
 
