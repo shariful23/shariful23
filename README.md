@@ -1,20 +1,3 @@
 ## Hi There, This is Md Shariful Islam
 
-###  Designer, Developer and SEO Expert
-
-
-- 👀 I’m interested in Modern Web Technologies with Javascript mostly with ReactJs and NextJs.
-- 🌱 Currently Working in efficient and large- scale web-based systems development
-- 💞️ looking to collaborate on Developer tools
-### Ping me 
-<b>Facebook</b>: https://facebook.com/sharifulsujon23  <br>
-<b>LinkedIn</b>: https://www.linkedin.com/in/sharifulsujon/ <br>
-<b>Xing</b>: https://www.xing.com/profile/MdShariful_Islam030637/ <br>
-<b>Email</b> sharifulsujon.nstu@gmail.com <br>     shariful.islam@stud.fra-uas.de <br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shariful23&layout=donut)](https://github.com/shariful23/github-readme-stats)
-
-<code> HTML5 </code>  <code> CSS3 </code> <code> JavaScript </code> <code> jQuery  </code> <code> ReactJs </code> <code> NextJs </code> <code> SEO </code>  <code> WordPress </code>
-
-
+Data Center Technician with 3+ years of hands-on experience in network infrastructure deployment, data center operations, and large-scale hardware migrations. Skilled in hardware installation, rack and stack, structured fiber-optic (LC, SC, MPO/MTP) and copper cabling, crossconnects, and patch panel troubleshooting. Proficient in hardware break/fix, hot-swap replacement, RAID configuration, BIOS and firmware upgrades, iDRAC/iLO, PDU/UPS infrastructure, server decommissioning, and RMA processes. Experienced in working autonomously within ITSM ticketing and change management workflows, maintaining accurate documentation and asset inventory, and collaborating with remote teams and stakeholders.
