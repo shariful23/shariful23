@@ -1,3 +1,1 @@
 ## Hi There, This is Md Shariful Islam
-
-Data Center Technician with 3+ years of hands-on experience in network infrastructure deployment, data center operations, and large-scale hardware migrations. Skilled in hardware installation, rack and stack, structured fiber-optic (LC, SC, MPO/MTP) and copper cabling, crossconnects, and patch panel troubleshooting. Proficient in hardware break/fix, hot-swap replacement, RAID configuration, BIOS and firmware upgrades, iDRAC/iLO, PDU/UPS infrastructure, server decommissioning, and RMA processes. Experienced in working autonomously within ITSM ticketing and change management workflows, maintaining accurate documentation and asset inventory, and collaborating with remote teams and stakeholders.
